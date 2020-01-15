@@ -5,6 +5,7 @@ Here is the Pytorch code for the accuracy results of Table 3 in the paper.
 1. `virtualenv --python=python3 .venv`
 2. `source .venv/bin/activate`
 3. `pip install -r requirements.txt`
+4. `mkdir results`
 
 Here's how to run each dataset:
 

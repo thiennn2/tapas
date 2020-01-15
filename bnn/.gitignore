@@ -1,2 +1,8 @@
+# result
+results
+data/mnist/
+
 cancer_test.txt
 cancer_train.txt
+diabetes_test.txt
+diabetes_train.txt
